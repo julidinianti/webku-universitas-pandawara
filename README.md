@@ -1,1 +1,1 @@
-# ebku-universitas-pandawara
+# webku-universitas-pandawara
